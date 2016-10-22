@@ -1,3 +1,5 @@
 // js scripts
 
-alert("Hello Githup");
+function HelloWorld(){
+  alert("Hello World..");
+}
