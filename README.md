@@ -1,3 +1,3 @@
 # git102
-Simple on GitHup
+Simple on GitHub
 Mr likhit...
